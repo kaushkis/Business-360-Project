@@ -15,5 +15,5 @@ Marketing View – Similar data as of Sales View but product-based instead of cu
 Supply Chain – Reliability and accuracy to better understand the supply chain performance.
 Executive View – This includes the integrated view of key insights for executives.
 
-##Dashboard Created (Dynamic Dashboard)
+Dashboard Created (Dynamic Dashboard)
 This Power BI project is not just a project but a course created with real-life business scenarios. Like recorded business meetings with stakeholders. Feedback after every design is created and shared with the stakeholders, changing and adding features to the report that saves time and provides all the required key metrics in the consolidated report, etc.
